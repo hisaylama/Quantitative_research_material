@@ -2,6 +2,7 @@
 ----
 - Brownian motion from perspective of finance ([Reading article](https://www.quantstart.com/articles/brownian-motion-simulation-with-python/)).
 - Networks in financial market ([Reading article](https://medium.com/latinxinai/building-a-network-of-stock-prices-using-mutual-information-13744622dd78)).
+- Sentiment analysis of stock peromance
 
 # Reference
 1. [Topics for quant finance](https://gist.github.com/ih2502mk/50d8f7feb614c8676383431b056f4291).
