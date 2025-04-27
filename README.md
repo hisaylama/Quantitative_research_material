@@ -1,4 +1,4 @@
 # Quants topics
 ----
-- Understanding Brownian Motion
+- Understanding Brownian motion from perspective of finance
 - 
