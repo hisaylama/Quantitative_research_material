@@ -1,2 +1,4 @@
-# Quants
-Quant projects
+# Quants topics
+----
+- Understanding Brownian Motion
+- 
