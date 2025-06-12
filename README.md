@@ -1,4 +1,4 @@
-# Quant topics
+# Quantitative research topics
 ----
 - Brownian motion from perspective of finance ([Reading article](https://www.quantstart.com/articles/brownian-motion-simulation-with-python/)).
 - Networks in financial market ([Reading article](https://medium.com/latinxinai/building-a-network-of-stock-prices-using-mutual-information-13744622dd78)).
