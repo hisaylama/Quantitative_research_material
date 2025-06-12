@@ -5,7 +5,7 @@
 - [Sentiment analysis and stock performance based on web-news](https://nbviewer.org/github/hisaylama/Quants/blob/main/Sentiment_analysis_Toyota_BYD.ipynb).
 - Book for learning statistical models - [Statistical Quantitative Methods in Finance by Samit Ahlawat](https://link.springer.com/book/10.1007/979-8-8688-0962-0).
 - Book for learning the importance of Probability application in Finance - [Probabilistic Machine Learning for Finance and Investing](https://learning.oreilly.com/library/view/probabilistic-machine-learning/9781492097662/).
-- [Coding problem](https://neetcode.io/) 
+- [Coding problems](https://neetcode.io/).  
  
 # Reference
 1. [Topics for quant finance](https://gist.github.com/ih2502mk/50d8f7feb614c8676383431b056f4291).
