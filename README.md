@@ -3,7 +3,7 @@
 - Brownian motion from perspective of finance ([Reading article](https://www.quantstart.com/articles/brownian-motion-simulation-with-python/)).
 - Networks in financial market ([Reading article](https://medium.com/latinxinai/building-a-network-of-stock-prices-using-mutual-information-13744622dd78)).
 - [Sentiment analysis and stock performance based on web-news](https://nbviewer.org/github/hisaylama/Quants/blob/main/Sentiment_analysis_Toyota_BYD.ipynb).
-
+- [Think complexity](https://github.com/AllenDowney/ThinkComplexity/) 
 - [Coding problems](https://neetcode.io/).  
  
 # Reference
